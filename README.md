@@ -18,6 +18,7 @@
 - Если мы укажем длину контента, меньше заданной строки, строка обрежется на заданной нами длине. Если же указать большую длину, запрос не отправится, пока мы не введем недостающие символы. Тут все аналогично Telnet
 - Отправить запрос на установку Cookie. Просмотреть список установленных Cookie. Отправить запрос на страницу с перенаправлением ![](https://github.com/MikhaillVodolaginn/WebApiTelnetOpenSSL/blob/main/Снимок%20экрана%202023-10-22%20в%2014.03.07.png)
 ## Парсер на Selenium WebDriver
-- парсер
+- парсер ![](https://github.com/MikhaillVodolaginn/WebApiTelnetOpenSSL/blob/main/Снимок%20экрана%202023-10-23%20в%2023.43.08.png)
+- ответ ![](https://github.com/MikhaillVodolaginn/WebApiTelnetOpenSSL/blob/main/Снимок%20экрана%202023-10-23%20в%2023.40.36.png)
 ## Парсер на requests
 - парсер
